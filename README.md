@@ -1,4 +1,4 @@
-# 📐 PCDiff: Diffusion-Based Point Cloud Completion for Cultural Artifact Restoration
+# Diffusion-Based Point Cloud Completion for Cultural Artifact Restoration
 
 **Author**: Nguyen Dinh Hieu, Phan Duy Hung  
 **Affiliation**: FPT University  
@@ -31,11 +31,11 @@ Digital restoration of ancient artifacts—especially those with intricate and i
 ## 📦 Pretrained Checkpoint & Processed Dataset
 
 - 🔗 **Trained Model Checkpoint**:  
-  [📥 Download epoch_14999.pth](https://your-cloud-link/checkpoints/epoch_14999.pth)  
+  [📥 Download epoch_14999.pth](https://drive.google.com/file/d/1yQR6Eyp5iXwPyy7uAE8hCubfEDYKp2k5/view?usp=sharing)  
   *(stored under `experiments/train_completion/2025-05-10-20-14-58/checkpoints/`)*
 
 - 📂 **Processed Dataset (Precol)**:  
-  [📥 Download precol_processed.zip](https://your-cloud-link/data/precol_processed.zip)  
+  [📥 Download precol](https://drive.google.com/drive/folders/1J_Fj85E_47LArfw800S6IO5SkGYdQdqU?usp=sharing)  
   *(includes train/test CSVs and ready-to-use `.ply` files)*
 
 > Replace `https://your-cloud-link/...` with your actual cloud storage URL (Google Drive, HuggingFace, etc.).
