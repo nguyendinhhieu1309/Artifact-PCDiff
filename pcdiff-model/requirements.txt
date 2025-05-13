@@ -1,0 +1,7 @@
+matplotlib
+tqdm
+trimesh
+ninja
+pynrrd
+open3d
+PyMCubes
