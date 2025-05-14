@@ -1,4 +1,4 @@
-# Diffusion-Based Point Cloud Completion for Cultural Artifact Restoration
+# Conditional diffusion restores intricate artifact shapes
 
 **Author**: Nguyen Dinh Hieu, Phan Duy Hung  
 **Affiliation**: FPT University  
