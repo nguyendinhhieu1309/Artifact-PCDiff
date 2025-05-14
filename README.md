@@ -38,7 +38,6 @@ Digital restoration of ancient artifacts—especially those with intricate and i
   [📥 Download precol](https://drive.google.com/drive/folders/1J_Fj85E_47LArfw800S6IO5SkGYdQdqU?usp=sharing)  
   *(includes train/test CSVs and ready-to-use `.ply` files)*
 
-> Replace `https://your-cloud-link/...` with your actual cloud storage URL (Google Drive, HuggingFace, etc.).
 ## 📂 Table of Contents
 - [🛠️ Environment Setup](#environment-setup)
 - [📁 Dataset Preparation](#dataset-preparation)
