@@ -31,7 +31,7 @@ Digital restoration of ancient artifacts—especially those with intricate and i
 ## 📦 Pretrained Checkpoint & Processed Dataset
 
 - 🔗 **Trained Model Checkpoint**:  
-  [📥 Download epoch_14999.pth](https://drive.google.com/file/d/1yQR6Eyp5iXwPyy7uAE8hCubfEDYKp2k5/view?usp=sharing)  
+  [📥 Download epoch_14999.pth](https://drive.google.com/file/d/1SuvpvF4McbvXkK8ek6faN1Is7AaPD2U3/view?usp=sharing)  
   *(stored under `experiments/train_completion/2025-05-10-20-14-58/checkpoints/`)*
 
 - 📂 **Processed Dataset (Precol)**:  
@@ -204,5 +204,28 @@ Evaluate closeness to ground truth, normalized by object scale.
 ├── requirements.txt
 ```
 ---
+## 💡 Citation
 
-> For cultural institutions, museums, and digital archaeologists: this project represents a novel, AI-augmented framework to support the digital preservation of humanity’s most intricate historical artifacts.
+If you use this model or dataset, please cite:
+
+```bibtex
+@inproceedings{nguyendinhhieu1309/Cultural_Heritage,
+  title={Conditional diffusion restores intricate artifact shapes},
+  author={Nguyen Dinh Hieu, Phan Duy Hung},
+  booktitle={Proceedings of the ...},
+  year={2025},
+  organization={FPT University, Hanoi}
+}
+```
+
+## 📚 References
+
+1. Pablo Jaramillo et al. *PCDiff* (arXiv 2024)  
+2. Ivan Sipiran et al. *DRDAP* (IJCV 2022)  
+
+## 🪪 License
+Released under the **MIT License**.  
+You may use, modify, and distribute the model and dataset with attribution.
+
+## 🧩 Acknowledgment
+Developed by **FPT University AI Research Group**, Hanoi, Vietnam  
