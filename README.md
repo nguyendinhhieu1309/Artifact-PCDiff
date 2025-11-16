@@ -35,7 +35,7 @@ Digital restoration of ancient artifacts—especially those with intricate and i
   *(stored under `experiments/train_completion/2025-05-10-20-14-58/checkpoints/`)*
 
 - 📂 **Processed Dataset (Precol)**:  
-  [📥 Download precol](https://drive.google.com/drive/folders/1J_Fj85E_47LArfw800S6IO5SkGYdQdqU?usp=sharing)  
+  [📥 Download precol](https://drive.google.com/drive/folders/1NDaXU_wFQ61KaLWu44Y5EhlaDGa7WvCm?usp=sharing)  
   *(includes train/test CSVs and ready-to-use `.ply` files)*
 
 ## 📂 Table of Contents
