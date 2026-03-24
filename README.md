@@ -11,6 +11,12 @@
 Digital restoration of ancient artifacts—especially those with intricate and irregular geometries—poses significant challenges. This project proposes a method leveraging **conditional diffusion models** to perform high-fidelity 3D shape completion from partial point clouds. By training on both general and culturally specific datasets (e.g., Precolumbian Pottery), our model learns detailed geometric priors and enables robust reconstruction. We report strong performance using metrics like Chamfer Distance and Hausdorff Distance, highlighting its relevance in AI-assisted cultural heritage preservation.
 
 ---
+
+## 📄 Paper
+
+- [Official Paper](https://doi.org/10.1007/978-981-96-4606-7_21)
+
+---
 ## 🔧 Dependencies
 
 | **Framework / Library** | **Version** |
