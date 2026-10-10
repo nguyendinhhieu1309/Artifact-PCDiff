@@ -1,8 +1,13 @@
+# Install the CUDA-enabled PyTorch build that matches your system first; see
+# the environment setup section in the repository README.
+torch==2.2.1
+torchvision==0.17.1
+numpy<2
 matplotlib
 tqdm
 trimesh
 ninja
 pynrrd
-open3d
+open3d==0.17.0
 PyMCubes
 scipy

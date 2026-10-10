@@ -1,0 +1,14 @@
+# Optional dependencies for the legacy voxelization pipeline only.
+# Install the core requirements and matching torch/torchvision pair first.
+# Install matching PyTorch3D and torch-scatter builds separately.
+Pillow
+opencv-python
+diplib
+imageio
+ipdb
+libigl
+mkl
+plyfile
+pykdtree
+PyYAML
+scikit-image
