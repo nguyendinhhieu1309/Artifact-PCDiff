@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+  <title id="title">Artifact-PCDiff</title>
+  <desc id="desc">A restored ceramic vessel mark with a fracture seam and point-cloud accents.</desc>
+  <defs>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6E9D4"/>
+      <stop offset="1" stop-color="#E8C9A1"/>
+    </linearGradient>
+    <linearGradient id="repair" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#44A99B"/>
+      <stop offset="1" stop-color="#197B78"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(22 17)">
+    <circle cx="103" cy="103" r="94" fill="#F4F1E9"/>
+    <circle cx="103" cy="103" r="84" fill="none" stroke="#D8DED8" stroke-width="1.5"/>
+    <path d="M67 46 Q103 55 139 46 L138 63 Q138 74 151 84 Q159 91 157 108 L153 139 Q148 167 103 181 Q58 167 53 139 L49 108 Q47 91 55 84 Q68 74 68 63 Z"
+          fill="url(#clay)" stroke="#172B45" stroke-width="5" stroke-linejoin="round"/>
+    <path d="M69 49 Q103 57 137 49" fill="none" stroke="#172B45" stroke-width="4" stroke-linecap="round"/>
+    <path d="M104 58 L94 77 L111 91 L96 108 L108 125 L96 145 L103 166"
+          fill="none" stroke="#D47B43" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M119 61 Q137 71 146 87 L149 110 L145 137 Q139 158 112 171"
+          fill="none" stroke="url(#repair)" stroke-width="4" stroke-linecap="round" opacity=".95"/>
+    <g fill="#197B78" stroke="#F4F1E9" stroke-width="2">
+      <circle cx="160" cy="77" r="5"/>
+      <circle cx="169" cy="96" r="4"/>
+      <circle cx="165" cy="119" r="5"/>
+      <circle cx="154" cy="141" r="4"/>
+      <circle cx="137" cy="158" r="4"/>
+    </g>
+    <g fill="#D47B43">
+      <circle cx="94" cy="77" r="4"/>
+      <circle cx="111" cy="91" r="4"/>
+      <circle cx="96" cy="108" r="4"/>
+      <circle cx="108" cy="125" r="4"/>
+      <circle cx="96" cy="145" r="4"/>
+    </g>
+  </g>
+  <path d="M247 44 V194" stroke="#D7DED9" stroke-width="2"/>
+  <text x="286" y="116" fill="#172B45" font-family="Georgia, 'Times New Roman', serif" font-size="69" font-weight="700" letter-spacing="-2">Artifact</text>
+  <text x="581" y="116" fill="#197B78" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="69" font-weight="800" letter-spacing="-2">PCDiff</text>
+  <path d="M291 143 H840" stroke="#D47B43" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="852" cy="143" r="5" fill="#197B78"/>
+  <text x="291" y="178" fill="#536273" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="4">POINT CLOUD DIFFUSION · CULTURAL HERITAGE</text>
+</svg>

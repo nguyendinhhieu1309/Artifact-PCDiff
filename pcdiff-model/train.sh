@@ -1,1 +1,0 @@
-python -m pcdiff.train_completion --path precol/train.csv --dataset precol --bs 12
