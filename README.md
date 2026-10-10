@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Task-3D%20Completion-C7793A" alt="3D completion">
   <img src="https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Python-3.10-3776AB?logo=python&logoColor=white" alt="Python 3.10">
-  <img src="https://img.shields.io/badge/License-MIT-2E8B57" alt="MIT License">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2E8B57" alt="MIT License"></a>
 </p>
 
 Artifact-PCDiff restores missing geometry from partial 3D scans of cultural heritage objects. It combines conditional point-cloud diffusion with fracture-aware refinement so the generated fragment follows the observed boundary.
