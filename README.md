@@ -50,8 +50,8 @@ The core dependency manifest lists PyTorch 2.2.1, TorchVision 0.17.1, NumPy belo
 <a id="downloads"></a>
 ## Checkpoint and Dataset Downloads
 
-- **Pretrained checkpoint:** [Download `epoch_14999.pth`](https://drive.google.com/file/d/1SuvpvF4McbvXkK8ek6faN1Is7AaPD2U3/view?usp=sharing) (original folder: `experiments/train_completion/2025-05-10-20-14-58/checkpoints/`). The evaluator can load legacy PCDiff checkpoints; use a checkpoint trained with Artifact-PCDiff to evaluate the paper method.
-- **Precol dataset:** [Download the shared dataset](https://drive.google.com/drive/folders/1NDaXU_wFQ61KaLWu44Y5EhlaDGa7WvCm?usp=sharing). This is the legacy CSV/PLY bundle. The current loader expects complete `.obj` meshes plus matching `broken/<name>_0.npy` and `repair/<name>_0.npy` files. Follow the dataset guide below to assemble or regenerate the runtime layout before training or computing metrics.
+- **Pretrained checkpoint:** [Download `epoch_14999.pth`](https://huggingface.co/datasets/NguyenDinhHieu/Artifact-PCDiff-Data) (original folder: `experiments/train_completion/2025-05-10-20-14-58/checkpoints/`). The evaluator can load legacy PCDiff checkpoints; use a checkpoint trained with Artifact-PCDiff to evaluate the paper method.
+- **Precol dataset:** [Download the shared dataset](https://huggingface.co/datasets/NguyenDinhHieu/Artifact-PCDiff-Data). This is the legacy CSV/PLY bundle. The current loader expects complete `.obj` meshes plus matching `broken/<name>_0.npy` and `repair/<name>_0.npy` files. Follow the dataset guide below to assemble or regenerate the runtime layout before training or computing metrics.
 
 <a id="setup"></a>
 ## Environment Setup
